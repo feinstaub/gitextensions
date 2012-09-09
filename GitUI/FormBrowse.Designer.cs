@@ -94,6 +94,7 @@ namespace GitUI
             this.FileText = new GitUI.Editor.FileViewer();
             this.DiffTabPage = new System.Windows.Forms.TabPage();
             this.DiffSplitContainer = new System.Windows.Forms.SplitContainer();
+            this.checkBoxAllInOne = new System.Windows.Forms.CheckBox();
             this.DiffFiles = new GitUI.FileStatusList();
             this.DiffContextMenu = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.openWithDifftoolToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -208,14 +209,12 @@ namespace GitUI
             this.gitRevisionBindingSource = new System.Windows.Forms.BindingSource(this.components);
 #if Mono212Released //waiting for mono 2.12
             ((System.ComponentModel.ISupportInitialize)(this.toolPanel)).BeginInit();
-#endif
             this.toolPanel.Panel1.SuspendLayout();
             this.toolPanel.Panel2.SuspendLayout();
             this.toolPanel.SuspendLayout();
             this.ToolStrip.SuspendLayout();
 #if Mono212Released //waiting for mono 2.12
             ((System.ComponentModel.ISupportInitialize)(this.MainSplitContainer)).BeginInit();
-#endif
             this.MainSplitContainer.Panel1.SuspendLayout();
             this.MainSplitContainer.Panel2.SuspendLayout();
             this.MainSplitContainer.SuspendLayout();
@@ -224,7 +223,6 @@ namespace GitUI
             this.TreeTabPage.SuspendLayout();
 #if Mono212Released //waiting for mono 2.12
             ((System.ComponentModel.ISupportInitialize)(this.FileTreeSplitContainer)).BeginInit();
-#endif
             this.FileTreeSplitContainer.Panel1.SuspendLayout();
             this.FileTreeSplitContainer.Panel2.SuspendLayout();
             this.FileTreeSplitContainer.SuspendLayout();
@@ -232,7 +230,6 @@ namespace GitUI
             this.DiffTabPage.SuspendLayout();
 #if Mono212Released //waiting for mono 2.12
             ((System.ComponentModel.ISupportInitialize)(this.DiffSplitContainer)).BeginInit();
-#endif
             this.DiffSplitContainer.Panel1.SuspendLayout();
             this.DiffSplitContainer.Panel2.SuspendLayout();
             this.DiffSplitContainer.SuspendLayout();
@@ -855,6 +852,7 @@ namespace GitUI
             // 
             // DiffSplitContainer.Panel1
             // 
+            this.DiffSplitContainer.Panel1.Controls.Add(this.checkBoxAllInOne);
             this.DiffSplitContainer.Panel1.Controls.Add(this.DiffFiles);
             // 
             // DiffSplitContainer.Panel2
@@ -864,11 +862,25 @@ namespace GitUI
             this.DiffSplitContainer.SplitterDistance = global::GitUI.Properties.Settings.Default.FormBrowse_DiffSplitContainer_SplitterDistance;
             this.DiffSplitContainer.TabIndex = 0;
             // 
+            // checkBoxAllInOne
+            // 
+            this.checkBoxAllInOne.AutoSize = true;
+            this.checkBoxAllInOne.Checked = true;
+            this.checkBoxAllInOne.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.checkBoxAllInOne.Location = new System.Drawing.Point(8, 8);
+            this.checkBoxAllInOne.Name = "checkBoxAllInOne";
+            this.checkBoxAllInOne.Size = new System.Drawing.Size(103, 19);
+            this.checkBoxAllInOne.TabIndex = 2;
+            this.checkBoxAllInOne.Text = "All in one view";
+            this.checkBoxAllInOne.UseVisualStyleBackColor = true;
+            // 
             // DiffFiles
             // 
+            this.DiffFiles.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.DiffFiles.ContextMenuStrip = this.DiffContextMenu;
-            this.DiffFiles.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.DiffFiles.Location = new System.Drawing.Point(0, 0);
+            this.DiffFiles.Location = new System.Drawing.Point(0, 34);
             this.DiffFiles.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.DiffFiles.Name = "DiffFiles";
             this.DiffFiles.Size = new System.Drawing.Size(215, 259);
@@ -1798,7 +1810,6 @@ namespace GitUI
             this.toolPanel.Panel2.ResumeLayout(false);
 #if Mono212Released //waiting for mono 2.12
             ((System.ComponentModel.ISupportInitialize)(this.toolPanel)).EndInit();
-#endif
             this.toolPanel.ResumeLayout(false);
             this.ToolStrip.ResumeLayout(false);
             this.ToolStrip.PerformLayout();
@@ -1806,7 +1817,6 @@ namespace GitUI
             this.MainSplitContainer.Panel2.ResumeLayout(false);
 #if Mono212Released //waiting for mono 2.12
             ((System.ComponentModel.ISupportInitialize)(this.MainSplitContainer)).EndInit();
-#endif
             this.MainSplitContainer.ResumeLayout(false);
             this.CommitInfoTabControl.ResumeLayout(false);
             this.CommitInfoTabPage.ResumeLayout(false);
@@ -1815,15 +1825,14 @@ namespace GitUI
             this.FileTreeSplitContainer.Panel2.ResumeLayout(false);
 #if Mono212Released //waiting for mono 2.12
             ((System.ComponentModel.ISupportInitialize)(this.FileTreeSplitContainer)).EndInit();
-#endif
             this.FileTreeSplitContainer.ResumeLayout(false);
             this.FileTreeContextMenu.ResumeLayout(false);
             this.DiffTabPage.ResumeLayout(false);
             this.DiffSplitContainer.Panel1.ResumeLayout(false);
+            this.DiffSplitContainer.Panel1.PerformLayout();
             this.DiffSplitContainer.Panel2.ResumeLayout(false);
 #if Mono212Released //waiting for mono 2.12
             ((System.ComponentModel.ISupportInitialize)(this.DiffSplitContainer)).EndInit();
-#endif
             this.DiffSplitContainer.ResumeLayout(false);
             this.DiffContextMenu.ResumeLayout(false);
             this.TreeContextMenu.ResumeLayout(false);
