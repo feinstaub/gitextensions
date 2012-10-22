@@ -1271,24 +1271,40 @@ namespace GitUI
             return StartBrowseDialog(null, filter);
         }
 
-        public bool StartFileHistoryDialog(IWin32Window owner, string fileName, GitRevision revision, bool filterByRevision, bool showBlame)
+        public bool StartFileHistoryDialog(IWin32Window owner, string fileName, GitRevision revision, bool filterByRevision, bool showBlame, int gotoLine)
         {
             if (!RequiresValidWorkingDir(owner))
+            {
                 return false;
+            }
 
             if (!InvokeEvent(owner, PreFileHistory))
+            {
                 return false;
+            }
 
             using (var form = new FormFileHistory(this, fileName, revision, filterByRevision))
             {
                 if (showBlame)
+                {
                     form.SelectBlameTab();
+
+                    if (gotoLine != -1)
+                    {
+                        form.InitBlameWithLine = gotoLine;
+                    }
+                }
                 form.ShowDialog(owner);
             }
 
             InvokeEvent(owner, PostFileHistory);
 
             return false;
+        }
+
+        public bool StartFileHistoryDialog(IWin32Window owner, string fileName, GitRevision revision, bool filterByRevision, bool showBlame)
+        {
+            return StartFileHistoryDialog(owner, fileName, revision, filterByRevision, showBlame, -1);
         }
 
         public bool StartFileHistoryDialog(IWin32Window owner, string fileName, GitRevision revision, bool filterByRevision)

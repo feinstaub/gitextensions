@@ -88,6 +88,8 @@ namespace GitUI
             tabControl1.SelectedTab = BlameTab;
         }
 
+        public int InitBlameWithLine { get; set; }
+
         private void LoadFileHistory()
         {
             FileChanges.Visible = true;
@@ -235,7 +237,10 @@ namespace GitUI
                 Text = Text + string.Format(" ({0})", fileName);
 
             if (tabControl1.SelectedTab == BlameTab)
-                Blame.LoadBlame(revision.Guid, fileName, FileChanges, BlameTab, Diff.Encoding);
+            {
+                Blame.LoadBlame(revision.Guid, fileName, FileChanges, BlameTab, Diff.Encoding, InitBlameWithLine);
+            }
+
             if (tabControl1.SelectedTab == ViewTab)
             {
                 var scrollpos = View.ScrollPos;

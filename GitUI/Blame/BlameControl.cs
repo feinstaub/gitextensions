@@ -172,7 +172,7 @@ namespace GitUI.Blame
         
         private AsyncLoader blameLoader = new AsyncLoader();
 
-        public void LoadBlame(string guid, string fileName, RevisionGrid revGrid, Control controlToMask, Encoding encoding)
+        public void LoadBlame(string guid, string fileName, RevisionGrid revGrid, Control controlToMask, Encoding encoding, int gotoLine)
         {
             //refresh only when something changed
             if (guid.Equals(commitInfo.GetRevision()) && fileName.Equals(fileName) && revGrid == _revGrid && encoding == _encoding)
@@ -217,6 +217,7 @@ namespace GitUI.Blame
                 BlameCommitter.ViewText("committer.txt", blameCommitter.ToString());
                 BlameFile.ViewText(fileName, blameFile.ToString());
                 BlameFile.ScrollPos = scrollpos;
+                BlameFile.GoToLine(gotoLine);
 
                 commitInfo.SetRevision(guid);
 

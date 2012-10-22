@@ -426,8 +426,11 @@ namespace GitUI.Editor
             }
         }
 
+        string _filename;
+
         public void ViewGitItem(string fileName, string guid)
         {
+            _filename = fileName;
             ViewItem(fileName, () => GetImage(fileName, guid), () => Module.GetFileText(guid, Encoding));
         }
 
@@ -906,7 +909,7 @@ namespace GitUI.Editor
 
         private void blameThisLineToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            UICommands.StartFileHistoryDialog(this, _filename, null, false, true, 50);
         }
     }
 }
