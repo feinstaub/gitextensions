@@ -44,6 +44,7 @@
             this.treatAllFilesAsTextToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.showNonprintableCharactersToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.goToLineToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.blameThisLineToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.fileviewerToolbar = new GitUI.ToolStripEx();
             this.nextChangeButton = new System.Windows.Forms.ToolStripButton();
             this.previousChangeButton = new System.Windows.Forms.ToolStripButton();
@@ -51,6 +52,7 @@
             this.increaseNumberOfLines = new System.Windows.Forms.ToolStripButton();
             this.DecreaseNumberOfLines = new System.Windows.Forms.ToolStripButton();
             this.toolStripSeparator4 = new System.Windows.Forms.ToolStripSeparator();
+            this.toolStripSeparator5 = new System.Windows.Forms.ToolStripSeparator();
             this.showEntireFileButton = new System.Windows.Forms.ToolStripButton();
             this.showNonPrintChars = new System.Windows.Forms.ToolStripButton();
             this.ignoreWhiteSpaces = new System.Windows.Forms.ToolStripButton();
@@ -75,7 +77,9 @@
             this.toolStripSeparator2,
             this.treatAllFilesAsTextToolStripMenuItem,
             this.showNonprintableCharactersToolStripMenuItem,
-            this.goToLineToolStripMenuItem});
+            this.goToLineToolStripMenuItem,
+            this.toolStripSeparator5,
+            this.blameThisLineToolStripMenuItem});
             this.contextMenu.Name = "ContextMenu";
             this.contextMenu.Size = new System.Drawing.Size(244, 236);
             // 
@@ -160,6 +164,18 @@
             this.goToLineToolStripMenuItem.Size = new System.Drawing.Size(243, 22);
             this.goToLineToolStripMenuItem.Text = "Go to line";
             this.goToLineToolStripMenuItem.Click += new System.EventHandler(this.goToLineToolStripMenuItem_Click);
+            // 
+            // toolStripSeparator5
+            // 
+            this.toolStripSeparator5.Name = "toolStripSeparator5";
+            this.toolStripSeparator5.Size = new System.Drawing.Size(240, 6);
+            // 
+            // 
+            // 
+            this.blameThisLineToolStripMenuItem.Name = "blameThisLineStripMenuItem";
+            this.blameThisLineToolStripMenuItem.Size = new System.Drawing.Size(243, 22);
+            this.blameThisLineToolStripMenuItem.Text = "Blame this line";
+            this.blameThisLineToolStripMenuItem.Click += new System.EventHandler(this.blameThisLineToolStripMenuItem_Click);
             // 
             // fileviewerToolbar
             // 
@@ -323,11 +339,13 @@
         private System.Windows.Forms.ToolStripButton DecreaseNumberOfLines;
         private System.Windows.Forms.ToolStripButton showEntireFileButton;
         private System.Windows.Forms.ToolStripSeparator toolStripSeparator4;
+        private System.Windows.Forms.ToolStripSeparator toolStripSeparator5;
         private System.Windows.Forms.ToolStripButton showNonPrintChars;
         private System.Windows.Forms.ToolStripMenuItem showNonprintableCharactersToolStripMenuItem;
         private System.Windows.Forms.ToolStripButton ignoreWhiteSpaces;
         private System.Windows.Forms.PictureBox PictureBox;
         private System.Windows.Forms.ToolStripComboBox encodingToolStripComboBox;
         private System.Windows.Forms.ToolStripMenuItem goToLineToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem blameThisLineToolStripMenuItem;
     }
 }
