@@ -399,7 +399,7 @@ namespace GitUI
 
                 FileStatusListBox.HorizontalExtent = 0;
                 int prevSelectedIndex = FileStatusListBox.SelectedIndex;
-                FileStatusListBox.DataSource = value;
+                FileStatusListBox.DataSource = value != null ? value.ToList() : null;
                 if (value != null && !value.Any() && prevSelectedIndex >= 0)
                 {
                     //bug in the ListBox control where supplying an empty list will not trigger a SelectedIndexChanged event, so we force it to trigger
