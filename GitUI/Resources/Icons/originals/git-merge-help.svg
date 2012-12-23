@@ -93,7 +93,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.45819228"
-     inkscape:cx="2306.4796"
+     inkscape:cx="1621.1778"
      inkscape:cy="-486.22671"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -172,6 +172,36 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(1479.0286,40.728905)">
+    <rect
+       style="color:#000000;fill:#ffffff;stroke:#ffffff;stroke-width:1.99999988000000010;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect5952"
+       width="543.10651"
+       height="842.61633"
+       x="920.07739"
+       y="1185.2604"
+       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_rebase_40dpi.png"
+       inkscape:export-xdpi="40"
+       inkscape:export-ydpi="40" />
+    <rect
+       y="1185.2604"
+       x="28.076975"
+       height="842.61633"
+       width="632.61523"
+       id="rect5932"
+       style="color:#000000;fill:#ffffff;stroke:#ffffff;stroke-width:1.99999988000000010;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_merge_40dpi.png"
+       inkscape:export-xdpi="40"
+       inkscape:export-ydpi="40" />
+    <rect
+       style="color:#000000;fill:#ffffff;stroke:#ffffff;stroke-width:1.99999988000000010;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect5908"
+       width="530.7605"
+       height="842.61633"
+       x="-777.50128"
+       y="1185.2604"
+       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_fetch_40dpi.png"
+       inkscape:export-xdpi="40"
+       inkscape:export-ydpi="40" />
     <rect
        style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect4963-3"
@@ -3864,35 +3894,5 @@
          x="1034.9434"
          sodipodi:role="line"
          id="tspan5906">merge conflicts occur</tspan></text>
-    <rect
-       style="color:#000000;fill:none;stroke:#4d4d4d;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect5908"
-       width="530.7605"
-       height="842.61633"
-       x="-777.50128"
-       y="1185.2604"
-       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_fetch_40dpi.png"
-       inkscape:export-xdpi="40"
-       inkscape:export-ydpi="40" />
-    <rect
-       y="1185.2604"
-       x="28.076975"
-       height="842.61633"
-       width="632.61523"
-       id="rect5932"
-       style="color:#000000;fill:none;stroke:#4d4d4d;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_merge_40dpi.png"
-       inkscape:export-xdpi="40"
-       inkscape:export-ydpi="40" />
-    <rect
-       style="color:#000000;fill:none;stroke:#4d4d4d;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect5952"
-       width="543.10651"
-       height="842.61633"
-       x="920.07739"
-       y="1185.2604"
-       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_rebase_40dpi.png"
-       inkscape:export-xdpi="40"
-       inkscape:export-ydpi="40" />
   </g>
 </svg>
