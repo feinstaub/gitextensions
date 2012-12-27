@@ -94,7 +94,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.45819228"
      inkscape:cx="1981.2931"
-     inkscape:cy="485.79495"
+     inkscape:cy="-1052.374"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -4951,5 +4951,45 @@
          id="tspan3559-7"
          x="-190.93381"
          y="2063.4534">same box size </tspan></text>
+    <text
+       inkscape:export-ydpi="40"
+       inkscape:export-xdpi="40"
+       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_command_merge_ff_40dpi.png"
+       sodipodi:linespacing="100%"
+       id="text3538-1"
+       y="202.31067"
+       x="-582.22858"
+       style="font-size:28.03155136px;font-style:normal;font-weight:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan3542-4"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+         y="202.31067"
+         x="-582.22858"
+         sodipodi:role="line">fast forward</tspan><tspan
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+         y="232.31067"
+         x="-582.22858"
+         sodipodi:role="line"
+         id="tspan3587">scenario</tspan></text>
+    <text
+       inkscape:export-ydpi="40"
+       inkscape:export-xdpi="40"
+       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_merge_ff_40dpi.png"
+       sodipodi:linespacing="100%"
+       id="text3538-1-0"
+       y="2117.1382"
+       x="102.21739"
+       style="font-size:28.03155136px;font-style:normal;font-weight:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan3542-4-9"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+         y="2117.1382"
+         x="102.21739"
+         sodipodi:role="line">fast forward</tspan><tspan
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+         y="2147.1382"
+         x="102.21739"
+         sodipodi:role="line"
+         id="tspan3587-4">scenario</tspan></text>
   </g>
 </svg>
