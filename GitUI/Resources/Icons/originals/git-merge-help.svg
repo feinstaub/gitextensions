@@ -94,7 +94,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.45819228"
      inkscape:cx="1981.2931"
-     inkscape:cy="-501.03163"
+     inkscape:cy="485.79495"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -172,6 +172,16 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(1479.0286,40.728905)">
+    <rect
+       inkscape:export-ydpi="40"
+       inkscape:export-xdpi="40"
+       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_command_merge_ff_40dpi.png"
+       y="173.42535"
+       x="-628.25885"
+       height="838.25128"
+       width="578.77527"
+       id="rect3582"
+       style="color:#000000;fill:#ffffff;stroke:#ffffff;stroke-width:1.99999964;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <path
        inkscape:connector-curvature="0"
        id="path4177"
@@ -180,16 +190,6 @@
        inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_merge_ff_40dpi.png"
        inkscape:export-xdpi="40"
        inkscape:export-ydpi="40" />
-    <rect
-       inkscape:export-ydpi="40"
-       inkscape:export-xdpi="40"
-       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_command_merge_ff_40dpi.png"
-       y="173.42535"
-       x="-628.09851"
-       height="760.74988"
-       width="426.00098"
-       id="rect3580"
-       style="color:#000000;fill:#ffffff;stroke:#ffffff;stroke-width:1.99999964;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <rect
        inkscape:export-ydpi="40"
        inkscape:export-xdpi="40"
@@ -1387,7 +1387,7 @@
        sodipodi:cy="257.27463"
        sodipodi:rx="28.581579"
        sodipodi:ry="28.581579"
-       d="m 171.48948,257.27463 a 28.581579,28.581579 0 1 1 -57.16316,0 28.581579,28.581579 0 1 1 57.16316,0 z"
+       d="m 171.48948,257.27463 c 0,15.78517 -12.79641,28.58158 -28.58158,28.58158 -15.78517,0 -28.58158,-12.79641 -28.58158,-28.58158 0,-15.78517 12.79641,-28.58158 28.58158,-28.58158 15.78517,0 28.58158,12.79641 28.58158,28.58158 z"
        transform="translate(-441.00576,537.8786)"
        inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_command_merge_ff_40dpi.png"
        inkscape:export-xdpi="40"
@@ -1415,7 +1415,7 @@
        sodipodi:cy="257.27463"
        sodipodi:rx="28.581579"
        sodipodi:ry="28.581579"
-       d="m 171.48948,257.27463 a 28.581579,28.581579 0 1 1 -57.16316,0 28.581579,28.581579 0 1 1 57.16316,0 z"
+       d="m 171.48948,257.27463 c 0,15.78517 -12.79641,28.58158 -28.58158,28.58158 -15.78517,0 -28.58158,-12.79641 -28.58158,-28.58158 0,-15.78517 12.79641,-28.58158 28.58158,-28.58158 15.78517,0 28.58158,12.79641 28.58158,28.58158 z"
        transform="translate(-441.00576,445.09405)"
        inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_command_merge_ff_40dpi.png"
        inkscape:export-xdpi="40"
@@ -1443,7 +1443,7 @@
        sodipodi:cy="257.27463"
        sodipodi:rx="28.581579"
        sodipodi:ry="28.581579"
-       d="m 171.48948,257.27463 a 28.581579,28.581579 0 1 1 -57.16316,0 28.581579,28.581579 0 1 1 57.16316,0 z"
+       d="m 171.48948,257.27463 c 0,15.78517 -12.79641,28.58158 -28.58158,28.58158 -15.78517,0 -28.58158,-12.79641 -28.58158,-28.58158 0,-15.78517 12.79641,-28.58158 28.58158,-28.58158 15.78517,0 28.58158,12.79641 28.58158,28.58158 z"
        transform="translate(-439.93493,350.44278)"
        inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_command_merge_ff_40dpi.png"
        inkscape:export-xdpi="40"
@@ -1471,7 +1471,7 @@
        sodipodi:cy="257.27463"
        sodipodi:rx="28.581579"
        sodipodi:ry="28.581579"
-       d="m 171.48948,257.27463 a 28.581579,28.581579 0 1 1 -57.16316,0 28.581579,28.581579 0 1 1 57.16316,0 z"
+       d="m 171.48948,257.27463 c 0,15.78517 -12.79641,28.58158 -28.58158,28.58158 -15.78517,0 -28.58158,-12.79641 -28.58158,-28.58158 0,-15.78517 12.79641,-28.58158 28.58158,-28.58158 15.78517,0 28.58158,12.79641 28.58158,28.58158 z"
        transform="translate(-439.93493,260.25656)"
        inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_command_merge_ff_40dpi.png"
        inkscape:export-xdpi="40"
@@ -1499,7 +1499,7 @@
        sodipodi:cy="257.27463"
        sodipodi:rx="28.581579"
        sodipodi:ry="28.581579"
-       d="m 171.48948,257.27463 a 28.581579,28.581579 0 1 1 -57.16316,0 28.581579,28.581579 0 1 1 57.16316,0 z"
+       d="m 171.48948,257.27463 c 0,15.78517 -12.79641,28.58158 -28.58158,28.58158 -15.78517,0 -28.58158,-12.79641 -28.58158,-28.58158 0,-15.78517 12.79641,-28.58158 28.58158,-28.58158 15.78517,0 28.58158,12.79641 28.58158,28.58158 z"
        transform="translate(-441.00576,160.51697)"
        inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_command_merge_ff_40dpi.png"
        inkscape:export-xdpi="40"
@@ -1527,7 +1527,7 @@
        sodipodi:cy="257.27463"
        sodipodi:rx="28.581579"
        sodipodi:ry="28.581579"
-       d="m 171.48948,257.27463 a 28.581579,28.581579 0 1 1 -57.16316,0 28.581579,28.581579 0 1 1 57.16316,0 z"
+       d="m 171.48948,257.27463 c 0,15.78517 -12.79641,28.58158 -28.58158,28.58158 -15.78517,0 -28.58158,-12.79641 -28.58158,-28.58158 0,-15.78517 12.79641,-28.58158 28.58158,-28.58158 15.78517,0 28.58158,12.79641 28.58158,28.58158 z"
        transform="translate(-441.00576,67.732416)"
        inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_command_merge_ff_40dpi.png"
        inkscape:export-xdpi="40"
@@ -4342,7 +4342,7 @@
        inkscape:export-xdpi="40"
        inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_command_merge_ff_40dpi.png"
        transform="matrix(0.7,0,0,0.7,-645.20663,700.8331)"
-       d="m 171.48948,257.27463 a 28.581579,28.581579 0 1 1 -57.16316,0 28.581579,28.581579 0 1 1 57.16316,0 z"
+       d="m 171.48948,257.27463 c 0,15.78517 -12.79641,28.58158 -28.58158,28.58158 -15.78517,0 -28.58158,-12.79641 -28.58158,-28.58158 0,-15.78517 12.79641,-28.58158 28.58158,-28.58158 15.78517,0 28.58158,12.79641 28.58158,28.58158 z"
        sodipodi:ry="28.581579"
        sodipodi:rx="28.581579"
        sodipodi:cy="257.27463"
@@ -4469,7 +4469,7 @@
        sodipodi:cy="257.27463"
        sodipodi:rx="28.581579"
        sodipodi:ry="28.581579"
-       d="m 171.48948,257.27463 a 28.581579,28.581579 0 1 1 -57.16316,0 28.581579,28.581579 0 1 1 57.16316,0 z"
+       d="m 171.48948,257.27463 c 0,15.78517 -12.79641,28.58158 -28.58158,28.58158 -15.78517,0 -28.58158,-12.79641 -28.58158,-28.58158 0,-15.78517 12.79641,-28.58158 28.58158,-28.58158 15.78517,0 28.58158,12.79641 28.58158,28.58158 z"
        transform="translate(-42.775408,2441.7197)" />
     <text
        inkscape:export-ydpi="40"
@@ -4497,7 +4497,7 @@
        sodipodi:cy="257.27463"
        sodipodi:rx="28.581579"
        sodipodi:ry="28.581579"
-       d="m 171.48948,257.27463 a 28.581579,28.581579 0 1 1 -57.16316,0 28.581579,28.581579 0 1 1 57.16316,0 z"
+       d="m 171.48948,257.27463 c 0,15.78517 -12.79641,28.58158 -28.58158,28.58158 -15.78517,0 -28.58158,-12.79641 -28.58158,-28.58158 0,-15.78517 12.79641,-28.58158 28.58158,-28.58158 15.78517,0 28.58158,12.79641 28.58158,28.58158 z"
        transform="translate(-42.775408,2348.9351)" />
     <text
        inkscape:export-ydpi="40"
@@ -4525,7 +4525,7 @@
        sodipodi:cy="257.27463"
        sodipodi:rx="28.581579"
        sodipodi:ry="28.581579"
-       d="m 171.48948,257.27463 a 28.581579,28.581579 0 1 1 -57.16316,0 28.581579,28.581579 0 1 1 57.16316,0 z"
+       d="m 171.48948,257.27463 c 0,15.78517 -12.79641,28.58158 -28.58158,28.58158 -15.78517,0 -28.58158,-12.79641 -28.58158,-28.58158 0,-15.78517 12.79641,-28.58158 28.58158,-28.58158 15.78517,0 28.58158,12.79641 28.58158,28.58158 z"
        transform="translate(-42.859058,2251.0208)" />
     <text
        inkscape:export-ydpi="40"
@@ -4553,7 +4553,7 @@
        sodipodi:cy="257.27463"
        sodipodi:rx="28.581579"
        sodipodi:ry="28.581579"
-       d="m 171.48948,257.27463 a 28.581579,28.581579 0 1 1 -57.16316,0 28.581579,28.581579 0 1 1 57.16316,0 z"
+       d="m 171.48948,257.27463 c 0,15.78517 -12.79641,28.58158 -28.58158,28.58158 -15.78517,0 -28.58158,-12.79641 -28.58158,-28.58158 0,-15.78517 12.79641,-28.58158 28.58158,-28.58158 15.78517,0 28.58158,12.79641 28.58158,28.58158 z"
        transform="translate(-42.859058,2160.8346)" />
     <text
        inkscape:export-ydpi="40"
@@ -4581,7 +4581,7 @@
        sodipodi:cy="257.27463"
        sodipodi:rx="28.581579"
        sodipodi:ry="28.581579"
-       d="m 171.48948,257.27463 a 28.581579,28.581579 0 1 1 -57.16316,0 28.581579,28.581579 0 1 1 57.16316,0 z"
+       d="m 171.48948,257.27463 c 0,15.78517 -12.79641,28.58158 -28.58158,28.58158 -15.78517,0 -28.58158,-12.79641 -28.58158,-28.58158 0,-15.78517 12.79641,-28.58158 28.58158,-28.58158 15.78517,0 28.58158,12.79641 28.58158,28.58158 z"
        transform="translate(-42.775408,2064.358)" />
     <text
        inkscape:export-ydpi="40"
@@ -4609,7 +4609,7 @@
        sodipodi:cy="257.27463"
        sodipodi:rx="28.581579"
        sodipodi:ry="28.581579"
-       d="m 171.48948,257.27463 a 28.581579,28.581579 0 1 1 -57.16316,0 28.581579,28.581579 0 1 1 57.16316,0 z"
+       d="m 171.48948,257.27463 c 0,15.78517 -12.79641,28.58158 -28.58158,28.58158 -15.78517,0 -28.58158,-12.79641 -28.58158,-28.58158 0,-15.78517 12.79641,-28.58158 28.58158,-28.58158 15.78517,0 28.58158,12.79641 28.58158,28.58158 z"
        transform="translate(-42.775408,1971.5735)" />
     <text
        inkscape:export-ydpi="40"
@@ -4669,7 +4669,7 @@
        sodipodi:cy="257.27463"
        sodipodi:rx="28.581579"
        sodipodi:ry="28.581579"
-       d="m 171.48948,257.27463 a 28.581579,28.581579 0 1 1 -57.16316,0 28.581579,28.581579 0 1 1 57.16316,0 z"
+       d="m 171.48948,257.27463 c 0,15.78517 -12.79641,28.58158 -28.58158,28.58158 -15.78517,0 -28.58158,-12.79641 -28.58158,-28.58158 0,-15.78517 12.79641,-28.58158 28.58158,-28.58158 15.78517,0 28.58158,12.79641 28.58158,28.58158 z"
        transform="translate(354.28628,2442.3722)" />
     <text
        inkscape:export-ydpi="40"
@@ -4697,7 +4697,7 @@
        sodipodi:cy="257.27463"
        sodipodi:rx="28.581579"
        sodipodi:ry="28.581579"
-       d="m 171.48948,257.27463 a 28.581579,28.581579 0 1 1 -57.16316,0 28.581579,28.581579 0 1 1 57.16316,0 z"
+       d="m 171.48948,257.27463 c 0,15.78517 -12.79641,28.58158 -28.58158,28.58158 -15.78517,0 -28.58158,-12.79641 -28.58158,-28.58158 0,-15.78517 12.79641,-28.58158 28.58158,-28.58158 15.78517,0 28.58158,12.79641 28.58158,28.58158 z"
        transform="translate(354.28628,2349.5877)" />
     <text
        inkscape:export-ydpi="40"
@@ -4725,7 +4725,7 @@
        sodipodi:cy="257.27463"
        sodipodi:rx="28.581579"
        sodipodi:ry="28.581579"
-       d="m 171.48948,257.27463 a 28.581579,28.581579 0 1 1 -57.16316,0 28.581579,28.581579 0 1 1 57.16316,0 z"
+       d="m 171.48948,257.27463 c 0,15.78517 -12.79641,28.58158 -28.58158,28.58158 -15.78517,0 -28.58158,-12.79641 -28.58158,-28.58158 0,-15.78517 12.79641,-28.58158 28.58158,-28.58158 15.78517,0 28.58158,12.79641 28.58158,28.58158 z"
        transform="translate(354.20263,2251.6734)" />
     <text
        inkscape:export-ydpi="40"
@@ -4753,7 +4753,7 @@
        sodipodi:cy="257.27463"
        sodipodi:rx="28.581579"
        sodipodi:ry="28.581579"
-       d="m 171.48948,257.27463 a 28.581579,28.581579 0 1 1 -57.16316,0 28.581579,28.581579 0 1 1 57.16316,0 z"
+       d="m 171.48948,257.27463 c 0,15.78517 -12.79641,28.58158 -28.58158,28.58158 -15.78517,0 -28.58158,-12.79641 -28.58158,-28.58158 0,-15.78517 12.79641,-28.58158 28.58158,-28.58158 15.78517,0 28.58158,12.79641 28.58158,28.58158 z"
        transform="translate(354.20263,2161.4872)" />
     <text
        inkscape:export-ydpi="40"
@@ -4781,7 +4781,7 @@
        sodipodi:cy="257.27463"
        sodipodi:rx="28.581579"
        sodipodi:ry="28.581579"
-       d="m 171.48948,257.27463 a 28.581579,28.581579 0 1 1 -57.16316,0 28.581579,28.581579 0 1 1 57.16316,0 z"
+       d="m 171.48948,257.27463 c 0,15.78517 -12.79641,28.58158 -28.58158,28.58158 -15.78517,0 -28.58158,-12.79641 -28.58158,-28.58158 0,-15.78517 12.79641,-28.58158 28.58158,-28.58158 15.78517,0 28.58158,12.79641 28.58158,28.58158 z"
        transform="translate(354.28628,2065.0106)" />
     <text
        inkscape:export-ydpi="40"
@@ -4809,7 +4809,7 @@
        sodipodi:cy="257.27463"
        sodipodi:rx="28.581579"
        sodipodi:ry="28.581579"
-       d="m 171.48948,257.27463 a 28.581579,28.581579 0 1 1 -57.16316,0 28.581579,28.581579 0 1 1 57.16316,0 z"
+       d="m 171.48948,257.27463 c 0,15.78517 -12.79641,28.58158 -28.58158,28.58158 -15.78517,0 -28.58158,-12.79641 -28.58158,-28.58158 0,-15.78517 12.79641,-28.58158 28.58158,-28.58158 15.78517,0 28.58158,12.79641 28.58158,28.58158 z"
        transform="translate(354.28628,1972.226)" />
     <text
        inkscape:export-ydpi="40"
@@ -4842,7 +4842,7 @@
        inkscape:export-xdpi="40"
        inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_merge_ff_40dpi.png"
        transform="matrix(0.7,0,0,0.7,54.52038,2593.4455)"
-       d="m 171.48948,257.27463 a 28.581579,28.581579 0 1 1 -57.16316,0 28.581579,28.581579 0 1 1 57.16316,0 z"
+       d="m 171.48948,257.27463 c 0,15.78517 -12.79641,28.58158 -28.58158,28.58158 -15.78517,0 -28.58158,-12.79641 -28.58158,-28.58158 0,-15.78517 12.79641,-28.58158 28.58158,-28.58158 15.78517,0 28.58158,12.79641 28.58158,28.58158 z"
        sodipodi:ry="28.581579"
        sodipodi:rx="28.581579"
        sodipodi:cy="257.27463"
@@ -4929,5 +4929,27 @@
        inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_merge_ff_40dpi.png"
        inkscape:export-xdpi="40"
        inkscape:export-ydpi="40" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-167.35222"
+       y="48.028072"
+       id="text3557"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3559"
+         x="-167.35222"
+         y="48.028072">. same box size .</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-190.93381"
+       y="2063.4534"
+       id="text3557-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3559-7"
+         x="-190.93381"
+         y="2063.4534">same box size </tspan></text>
   </g>
 </svg>
