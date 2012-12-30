@@ -54,6 +54,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxySwitcher", "Plugins\Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitCommandsTest", "GitExtensionsTest\GitCommands\GitCommandsTest.csproj", "{AC8FDEDF-6390-4F87-BBC3-1A974810B589}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{DABFC124-73C8-4078-8540-F28DE9C00196}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -208,18 +210,6 @@ Global
 		{687A73BB-12A0-4AF7-B420-4A9C47DB75CB}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{687A73BB-12A0-4AF7-B420-4A9C47DB75CB}.Release|x64.ActiveCfg = Release|Any CPU
 		{687A73BB-12A0-4AF7-B420-4A9C47DB75CB}.Release|x86.ActiveCfg = Release|Any CPU
-		{4A720727-E26E-4091-AA12-1B2CDA481095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4A720727-E26E-4091-AA12-1B2CDA481095}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4A720727-E26E-4091-AA12-1B2CDA481095}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
-		{4A720727-E26E-4091-AA12-1B2CDA481095}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
-		{4A720727-E26E-4091-AA12-1B2CDA481095}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{4A720727-E26E-4091-AA12-1B2CDA481095}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{4A720727-E26E-4091-AA12-1B2CDA481095}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4A720727-E26E-4091-AA12-1B2CDA481095}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4A720727-E26E-4091-AA12-1B2CDA481095}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
-		{4A720727-E26E-4091-AA12-1B2CDA481095}.Release|Mixed Platforms.Build.0 = Release|Any CPU
-		{4A720727-E26E-4091-AA12-1B2CDA481095}.Release|x64.ActiveCfg = Release|Any CPU
-		{4A720727-E26E-4091-AA12-1B2CDA481095}.Release|x86.ActiveCfg = Release|Any CPU
 		{4041B976-50D0-4C6E-ABAF-7E67458A1264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4041B976-50D0-4C6E-ABAF-7E67458A1264}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4041B976-50D0-4C6E-ABAF-7E67458A1264}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
@@ -328,6 +318,18 @@ Global
 		{274F449F-7472-4248-9A57-8CA665A75B5D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{274F449F-7472-4248-9A57-8CA665A75B5D}.Release|x64.ActiveCfg = Release|Any CPU
 		{274F449F-7472-4248-9A57-8CA665A75B5D}.Release|x86.ActiveCfg = Release|Any CPU
+		{DABFC124-73C8-4078-8540-F28DE9C00196}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{DABFC124-73C8-4078-8540-F28DE9C00196}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{DABFC124-73C8-4078-8540-F28DE9C00196}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{DABFC124-73C8-4078-8540-F28DE9C00196}.Debug|x64.ActiveCfg = Debug|x86
+		{DABFC124-73C8-4078-8540-F28DE9C00196}.Debug|x86.ActiveCfg = Debug|x86
+		{DABFC124-73C8-4078-8540-F28DE9C00196}.Debug|x86.Build.0 = Debug|x86
+		{DABFC124-73C8-4078-8540-F28DE9C00196}.Release|Any CPU.ActiveCfg = Release|x86
+		{DABFC124-73C8-4078-8540-F28DE9C00196}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{DABFC124-73C8-4078-8540-F28DE9C00196}.Release|Mixed Platforms.Build.0 = Release|x86
+		{DABFC124-73C8-4078-8540-F28DE9C00196}.Release|x64.ActiveCfg = Release|x86
+		{DABFC124-73C8-4078-8540-F28DE9C00196}.Release|x86.ActiveCfg = Release|x86
+		{DABFC124-73C8-4078-8540-F28DE9C00196}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
