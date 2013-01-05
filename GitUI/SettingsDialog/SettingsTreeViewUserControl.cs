@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using GitCommands;
+using GitUI.SettingsDialog.Plugins;
 
 namespace GitUI.SettingsDialog
 {
@@ -241,8 +242,7 @@ namespace GitUI.SettingsDialog
                     // programming error: forgot to handle a case
                 }
             }
-
-            if (settingsPageReference.SettingsPageType != null)
+            else if (settingsPageReference.SettingsPageType != null)
             {
                 foreach (var node in GetNodesWithSettingsPage())
                 {
@@ -251,6 +251,20 @@ namespace GitUI.SettingsDialog
                     if (settingsPage.GetType() == settingsPageReference.SettingsPageType)
                     {
                         _isSelectionChangeTriggeredByGoto = true;
+                        treeView1.SelectedNode = node;
+                        break;
+                    }
+                }
+            }
+            else if (settingsPageReference.GitExtPlugin != null)
+            {
+                foreach (var node in GetNodesWithSettingsPage())
+                {
+                    var settingsPage = (ISettingsPage)node.Tag;
+                    var pluginSettingsPage = settingsPage as PluginSettingsPage;
+
+                    if (pluginSettingsPage != null && pluginSettingsPage.GitExtPlugin == settingsPageReference.GitExtPlugin)
+                    {
                         treeView1.SelectedNode = node;
                         break;
                     }

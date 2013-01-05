@@ -23,6 +23,8 @@ namespace GitUI.SettingsDialog.Plugins
             _gitPlugin = gitPlugin;
         }
 
+        public IGitPlugin GitExtPlugin { get { return _gitPlugin; } }
+
         public static PluginSettingsPage CreateSettingsPageFromPlugin(IGitPlugin gitPlugin)
         {
             return new PluginSettingsPage(gitPlugin);
