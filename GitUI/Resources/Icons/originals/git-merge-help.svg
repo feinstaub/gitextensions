@@ -91,8 +91,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.38138191"
-     inkscape:cx="358.53301"
-     inkscape:cy="1040.1368"
+     inkscape:cx="195.39632"
+     inkscape:cy="371.00506"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -169,7 +169,7 @@
     <rect
        style="color:#000000;fill:#ffffff;stroke:#ffffff;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect5952"
-       width="543.10651"
+       width="688"
        height="842.61633"
        x="910.34497"
        y="247.16742"
@@ -189,7 +189,7 @@
     <rect
        style="color:#000000;fill:#ffffff;stroke:#ffffff;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect5908"
-       width="530.7605"
+       width="688"
        height="842.61633"
        x="-787.2337"
        y="247.16742"
@@ -2643,84 +2643,6 @@
          x="968.56165"
          y="414.74323"
          style="font-size:45px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Arial;-inkscape-font-specification:Arial">f</tspan></text>
-    <rect
-       style="color:#000000;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect4800"
-       width="107.99027"
-       height="35"
-       x="1022.6316"
-       y="759.5058"
-       ry="9.6551723"
-       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_rebase_40dpi.png"
-       inkscape:export-xdpi="40"
-       inkscape:export-ydpi="40" />
-    <text
-       xml:space="preserve"
-       style="font-size:40.04507446px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1034.6316"
-       y="787.34113"
-       id="text4802"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_rebase_40dpi.png"
-       inkscape:export-xdpi="40"
-       inkscape:export-ydpi="40"><tspan
-         sodipodi:role="line"
-         id="tspan4804"
-         x="1034.6316"
-         y="787.34113"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">BASE</tspan></text>
-    <rect
-       style="color:#000000;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect4806"
-       width="168.62733"
-       height="35"
-       x="1117.7101"
-       y="568.58197"
-       ry="9.6551723"
-       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_rebase_40dpi.png"
-       inkscape:export-xdpi="40"
-       inkscape:export-ydpi="40" />
-    <text
-       xml:space="preserve"
-       style="font-size:40.04507446px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1131.7101"
-       y="596.4173"
-       id="text4808"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_rebase_40dpi.png"
-       inkscape:export-xdpi="40"
-       inkscape:export-ydpi="40"><tspan
-         sodipodi:role="line"
-         id="tspan4810"
-         x="1131.7101"
-         y="596.4173"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">REMOTE</tspan></text>
-    <rect
-       style="color:#000000;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect4812"
-       width="131.98416"
-       height="35"
-       x="1057.7222"
-       y="379.34308"
-       ry="9.6551723"
-       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_rebase_40dpi.png"
-       inkscape:export-xdpi="40"
-       inkscape:export-ydpi="40" />
-    <text
-       xml:space="preserve"
-       style="font-size:40.04507446px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1071.7222"
-       y="408.01947"
-       id="text4814"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_rebase_40dpi.png"
-       inkscape:export-xdpi="40"
-       inkscape:export-ydpi="40"><tspan
-         sodipodi:role="line"
-         id="tspan4816"
-         x="1071.7222"
-         y="408.01947"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">LOCAL</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40.04507446px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -3588,32 +3510,6 @@
          y="968.43549"
          x="1280.1411"
          sodipodi:role="line">new commit</tspan></text>
-    <rect
-       style="color:#000000;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect5896"
-       width="92.615074"
-       height="24.5"
-       x="922.28027"
-       y="1020.7938"
-       ry="6.7586207"
-       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_rebase_40dpi.png"
-       inkscape:export-xdpi="40"
-       inkscape:export-ydpi="40" />
-    <text
-       xml:space="preserve"
-       style="font-size:28.03155136px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="946.08026"
-       y="1040.2787"
-       id="text5898"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_rebase_40dpi.png"
-       inkscape:export-xdpi="40"
-       inkscape:export-ydpi="40"><tspan
-         sodipodi:role="line"
-         id="tspan5900"
-         x="946.08026"
-         y="1040.2787"
-         style="font-size:22.39999962px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">AAA</tspan></text>
     <text
        sodipodi:linespacing="100%"
        id="text5902"
@@ -4493,7 +4389,7 @@
          sodipodi:role="line">}</tspan></text>
     <path
        style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:6;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 271.85135,1438.3023 53.9806,-27.4826 -22.6179,-22.3638 84.3279,3.1914 -47.9185,68.3228 -4.8797,-31.646 -53.9844,27.4846 z"
+       d="m 280.09101,1458.0378 45.02823,-40.5174 -27.63539,-15.7478 82.28049,-18.743 -28.60247,78.397 -12.90402,-29.3048 -45.03139,40.5203 z"
        id="path3485-1-7-2-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccc"
@@ -4574,7 +4470,7 @@
     <path
        inkscape:export-ydpi="40"
        inkscape:export-xdpi="40"
-       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_command_merge_ff_40dpi.png"
+       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_merge_40dpi.png"
        sodipodi:nodetypes="cccccccc"
        inkscape:connector-curvature="0"
        id="path3585"
@@ -4583,11 +4479,11 @@
     <path
        inkscape:export-ydpi="40"
        inkscape:export-xdpi="40"
-       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_command_rebase_40dpi.png"
+       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_rebase_40dpi.png"
        sodipodi:nodetypes="cccccccc"
        inkscape:connector-curvature="0"
        id="path3587"
-       d="m 1170.7468,517.33555 53.9806,-27.4826 -22.6179,-22.3638 84.3279,3.1914 -47.9185,68.3228 -4.8797,-31.646 -53.9844,27.4846 z"
+       d="m 1182.3644,529.82693 45.0283,-40.51736 -27.6354,-15.74783 82.2805,-18.74301 -28.6025,78.39697 -12.904,-29.30473 -45.0314,40.52028 z"
        style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#cccccc;stroke-width:6;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <g
        id="g5577"
@@ -5090,7 +4986,7 @@
     <text
        inkscape:export-ydpi="40"
        inkscape:export-xdpi="40"
-       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_command_merge_40dpi.png"
+       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_merge_40dpi.png"
        sodipodi:linespacing="100%"
        id="text5700"
        y="274.2475"
@@ -5105,7 +5001,7 @@
     <g
        inkscape:export-ydpi="40"
        inkscape:export-xdpi="40"
-       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_command_merge_40dpi.png"
+       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_merge_40dpi.png"
        id="g5704"
        transform="translate(-2.000028,1011.975)">
       <rect
@@ -5145,7 +5041,7 @@
     <g
        inkscape:export-ydpi="40"
        inkscape:export-xdpi="40"
-       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_command_merge_40dpi.png"
+       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_merge_40dpi.png"
        transform="translate(-1.708158,1028.6616)"
        id="g5714">
       <rect
@@ -5185,7 +5081,7 @@
     <g
        inkscape:export-ydpi="40"
        inkscape:export-xdpi="40"
-       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_command_merge_40dpi.png"
+       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_merge_40dpi.png"
        transform="translate(15.122261,1008.9293)"
        id="g5724">
       <rect
@@ -5225,7 +5121,7 @@
     <text
        inkscape:export-ydpi="40"
        inkscape:export-xdpi="40"
-       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_command_merge_40dpi.png"
+       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_merge_40dpi.png"
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri Bold"
        x="234.29871"
@@ -5240,7 +5136,7 @@
     <text
        inkscape:export-ydpi="40"
        inkscape:export-xdpi="40"
-       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_command_merge_40dpi.png"
+       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_merge_40dpi.png"
        sodipodi:linespacing="100%"
        id="text5738"
        y="303.41339"
@@ -5256,7 +5152,7 @@
        sodipodi:nodetypes="ccc"
        inkscape:export-ydpi="40"
        inkscape:export-xdpi="40"
-       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_command_merge_40dpi.png"
+       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_merge_40dpi.png"
        inkscape:connector-curvature="0"
        id="path5744"
        d="m 543.22359,293.81617 c -52.96957,5.84857 -74.33548,29.943 -73.65694,61.84575 l -0.96917,16.42115"
@@ -5264,7 +5160,7 @@
     <g
        inkscape:export-ydpi="40"
        inkscape:export-xdpi="40"
-       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_command_merge_40dpi.png"
+       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_merge_40dpi.png"
        id="g5746"
        transform="translate(50,999.34094)">
       <rect
@@ -5308,7 +5204,7 @@
        x="128.617"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri Bold"
        xml:space="preserve"
-       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_command_merge_40dpi.png"
+       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_merge_ff_40dpi.png"
        inkscape:export-xdpi="40"
        inkscape:export-ydpi="40"><tspan
          style="font-size:32px;font-weight:bold;-inkscape-font-specification:Calibri Bold"
@@ -5323,7 +5219,7 @@
        y="1295.338"
        id="text5760"
        sodipodi:linespacing="100%"
-       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_command_merge_40dpi.png"
+       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_merge_ff_40dpi.png"
        inkscape:export-xdpi="40"
        inkscape:export-ydpi="40"><tspan
          sodipodi:role="line"
@@ -5331,5 +5227,225 @@
          x="528.54608"
          y="1295.338"
          style="font-size:32px;font-weight:bold;-inkscape-font-specification:Calibri Bold">current</tspan></text>
+    <g
+       inkscape:export-ydpi="40"
+       inkscape:export-xdpi="40"
+       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_rebase_40dpi.png"
+       transform="translate(876.38461,1010.1757)"
+       id="g5764">
+      <rect
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_command_merge_40dpi.png"
+         ry="6.8965516"
+         y="-247.42233"
+         x="137.38942"
+         height="25"
+         width="97.24305"
+         id="rect5766"
+         style="color:#000000;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_command_merge_40dpi.png"
+         sodipodi:linespacing="125%"
+         id="text5768"
+         y="-226.51404"
+         x="162.31645"
+         style="font-size:40.04507446px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+           y="-226.51404"
+           x="162.31645"
+           id="tspan5770"
+           sodipodi:role="line">.BASE</tspan></text>
+      <image
+         width="30"
+         height="30"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAABHNCSVQICAgIfAhkiAAAAahJREFU WIXtmDFLw0AUx3+xUih0qqPg1MFFEAQnoavQ1UlQcHHyA7gKFUEQ+iV0ddFPoEsHR0XoJq5OgqI0 nMNday3ppbn3TDL0D0cCeXnvx/snd5dExhjKrIWiAdI0B5Sq9ICLWYKjKJolbAV4SboQ8kJqd7AC bGsm1AY8BJ40E0ZZ2p5icQPoAatAnBRQtMUd4J4pcMEyxsw8PFoHBkBbq9ZwaFl8B2wAS8CnDzCr NCzeBbaAazxwwRJaXAdeAeNA1WqNagoBzxzcB/YtLhVgE/hygDdpcKGAkmewC1Td+a0gj1+BHWxj O2ew00uqvVlrSSyuAv0xwFlHNy/A4wC4PlDPA3AZeM8IN8DOk7lYfBnQvYu8n0GfWhNwz0BNAqi9 HxxfTWLgAOnyp9jBGvBGgrUhtf7D4h3+WludDCja4j13jIF94Fslq1IHG/yuy+catbQtPnJwjyRY WwbAHnZC3vQFFQXYdN3r+OCKBDwhxdqiAfvYD6ZUhQBKp5kWcAU8CPNMlRRwDTjVAJkmyXdxBbv9 SvyTlaQstUY1Q27KU6X/gTkHlOoHetuSsE6QcjwAAAAASUVORK5CYII= "
+         id="image5772"
+         x="138.03331"
+         y="-250.21286" />
+    </g>
+    <g
+       inkscape:export-ydpi="40"
+       inkscape:export-xdpi="40"
+       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_rebase_40dpi.png"
+       id="g5774"
+       transform="translate(979.41234,1215.6495)">
+      <rect
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_command_merge_40dpi.png"
+         ry="6.8965516"
+         y="-628.51202"
+         x="137.40701"
+         height="25"
+         width="133.07703"
+         id="rect5776"
+         style="color:#000000;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_command_merge_40dpi.png"
+         sodipodi:linespacing="125%"
+         id="text5778"
+         y="-607.83569"
+         x="161.40701"
+         style="font-size:40.04507446px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+           y="-607.83569"
+           x="161.40701"
+           id="tspan5780"
+           sodipodi:role="line">.REMOTE</tspan></text>
+      <image
+         y="-632.22314"
+         x="136.5955"
+         id="image5782"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAABHNCSVQICAgIfAhkiAAAAahJREFU WIXtmDFLw0AUx3+xUih0qqPg1MFFEAQnoavQ1UlQcHHyA7gKFUEQ+iV0ddFPoEsHR0XoJq5OgqI0 nMNday3ppbn3TDL0D0cCeXnvx/snd5dExhjKrIWiAdI0B5Sq9ICLWYKjKJolbAV4SboQ8kJqd7AC bGsm1AY8BJ40E0ZZ2p5icQPoAatAnBRQtMUd4J4pcMEyxsw8PFoHBkBbq9ZwaFl8B2wAS8CnDzCr NCzeBbaAazxwwRJaXAdeAeNA1WqNagoBzxzcB/YtLhVgE/hygDdpcKGAkmewC1Td+a0gj1+BHWxj O2ew00uqvVlrSSyuAv0xwFlHNy/A4wC4PlDPA3AZeM8IN8DOk7lYfBnQvYu8n0GfWhNwz0BNAqi9 HxxfTWLgAOnyp9jBGvBGgrUhtf7D4h3+WludDCja4j13jIF94Fslq1IHG/yuy+catbQtPnJwjyRY WwbAHnZC3vQFFQXYdN3r+OCKBDwhxdqiAfvYD6ZUhQBKp5kWcAU8CPNMlRRwDTjVAJkmyXdxBbv9 SvyTlaQstUY1Q27KU6X/gTkHlOoHetuSsE6QcjwAAAAASUVORK5CYII= "
+         height="30"
+         width="30" />
+    </g>
+    <text
+       inkscape:export-ydpi="40"
+       inkscape:export-xdpi="40"
+       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_rebase_40dpi.png"
+       sodipodi:linespacing="100%"
+       id="text5784"
+       y="574.16174"
+       x="1120.5494"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri Bold"
+       xml:space="preserve"><tspan
+         style="font-size:32px;font-weight:bold;-inkscape-font-specification:Calibri Bold"
+         y="574.16174"
+         x="1120.5494"
+         id="tspan5786"
+         sodipodi:role="line">current</tspan></text>
+    <g
+       inkscape:export-ydpi="40"
+       inkscape:export-xdpi="40"
+       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_rebase_40dpi.png"
+       transform="translate(845.0736,1002.1757)"
+       id="g5788">
+      <rect
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_command_merge_40dpi.png"
+         style="color:#000000;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect5790"
+         width="87.052879"
+         height="24.5"
+         x="81.701332"
+         y="20.819647"
+         ry="6.7586207" />
+      <text
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_command_merge_40dpi.png"
+         xml:space="preserve"
+         style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="105.50127"
+         y="40.304512"
+         id="text5792"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5794"
+           x="105.50127"
+           y="40.304512"
+           style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">.AAA</tspan></text>
+      <image
+         y="17.991377"
+         x="81.484329"
+         id="image5796"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAABHNCSVQICAgIfAhkiAAAAahJREFU WIXtmDFLw0AUx3+xUih0qqPg1MFFEAQnoavQ1UlQcHHyA7gKFUEQ+iV0ddFPoEsHR0XoJq5OgqI0 nMNday3ppbn3TDL0D0cCeXnvx/snd5dExhjKrIWiAdI0B5Sq9ICLWYKjKJolbAV4SboQ8kJqd7AC bGsm1AY8BJ40E0ZZ2p5icQPoAatAnBRQtMUd4J4pcMEyxsw8PFoHBkBbq9ZwaFl8B2wAS8CnDzCr NCzeBbaAazxwwRJaXAdeAeNA1WqNagoBzxzcB/YtLhVgE/hygDdpcKGAkmewC1Td+a0gj1+BHWxj O2ew00uqvVlrSSyuAv0xwFlHNy/A4wC4PlDPA3AZeM8IN8DOk7lYfBnQvYu8n0GfWhNwz0BNAqi9 HxxfTWLgAOnyp9jBGvBGgrUhtf7D4h3+WludDCja4j13jIF94Fslq1IHG/yuy+catbQtPnJwjyRY WwbAHnZC3vQFFQXYdN3r+OCKBDwhxdqiAfvYD6ZUhQBKp5kWcAU8CPNMlRRwDTjVAJkmyXdxBbv9 SvyTlaQstUY1Q27KU6X/gTkHlOoHetuSsE6QcjwAAAAASUVORK5CYII= "
+         height="30"
+         width="30" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri Bold"
+       x="1419.4624"
+       y="403.10687"
+       id="text5798"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_rebase_40dpi.png"
+       inkscape:export-xdpi="40"
+       inkscape:export-ydpi="40"><tspan
+         sodipodi:role="line"
+         id="tspan5800"
+         x="1419.4624"
+         y="403.10687"
+         style="font-size:32px;font-weight:bold;-inkscape-font-specification:Calibri Bold">current</tspan></text>
+    <text
+       inkscape:export-ydpi="40"
+       inkscape:export-xdpi="40"
+       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_rebase_40dpi.png"
+       sodipodi:linespacing="100%"
+       id="text5802"
+       y="371.56668"
+       x="1040.405"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+       xml:space="preserve"><tspan
+         style="font-size:32px;font-weight:normal;-inkscape-font-specification:Calibri"
+         y="371.56668"
+         x="1040.405"
+         id="tspan5804"
+         sodipodi:role="line">other</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+       x="1419.5743"
+       y="592.95422"
+       id="text5806"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_rebase_40dpi.png"
+       inkscape:export-xdpi="40"
+       inkscape:export-ydpi="40"><tspan
+         sodipodi:role="line"
+         id="tspan5808"
+         x="1419.5743"
+         y="592.95422"
+         style="font-size:32px;font-weight:normal;-inkscape-font-specification:Calibri">other</tspan></text>
+    <g
+       inkscape:export-ydpi="40"
+       inkscape:export-xdpi="40"
+       inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_pull_rebase_40dpi.png"
+       id="g5810"
+       transform="translate(805.12538,819.7209)">
+      <rect
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_command_merge_40dpi.png"
+         ry="6.8965516"
+         y="-435.27322"
+         x="233.39491"
+         height="25"
+         width="117.47473"
+         id="rect5812"
+         style="color:#000000;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         inkscape:export-ydpi="40"
+         inkscape:export-xdpi="40"
+         inkscape:export-filename="D:\data2\projects\gitextensions\GitUI\Resources\Icons\originals\git-merge-help_command_merge_40dpi.png"
+         sodipodi:linespacing="125%"
+         id="text5814"
+         y="-415.43787"
+         x="259.39493"
+         style="font-size:40.04507446px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+           y="-415.43787"
+           x="259.39493"
+           id="tspan5816"
+           sodipodi:role="line">.LOCAL</tspan></text>
+      <image
+         y="-438.61935"
+         x="235.29874"
+         id="image5818"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAABHNCSVQICAgIfAhkiAAAAahJREFU WIXtmDFLw0AUx3+xUih0qqPg1MFFEAQnoavQ1UlQcHHyA7gKFUEQ+iV0ddFPoEsHR0XoJq5OgqI0 nMNday3ppbn3TDL0D0cCeXnvx/snd5dExhjKrIWiAdI0B5Sq9ICLWYKjKJolbAV4SboQ8kJqd7AC bGsm1AY8BJ40E0ZZ2p5icQPoAatAnBRQtMUd4J4pcMEyxsw8PFoHBkBbq9ZwaFl8B2wAS8CnDzCr NCzeBbaAazxwwRJaXAdeAeNA1WqNagoBzxzcB/YtLhVgE/hygDdpcKGAkmewC1Td+a0gj1+BHWxj O2ew00uqvVlrSSyuAv0xwFlHNy/A4wC4PlDPA3AZeM8IN8DOk7lYfBnQvYu8n0GfWhNwz0BNAqi9 HxxfTWLgAOnyp9jBGvBGgrUhtf7D4h3+WludDCja4j13jIF94Fslq1IHG/yuy+catbQtPnJwjyRY WwbAHnZC3vQFFQXYdN3r+OCKBDwhxdqiAfvYD6ZUhQBKp5kWcAU8CPNMlRRwDTjVAJkmyXdxBbv9 SvyTlaQstUY1Q27KU6X/gTkHlOoHetuSsE6QcjwAAAAASUVORK5CYII= "
+         height="30"
+         width="30" />
+    </g>
   </g>
 </svg>
