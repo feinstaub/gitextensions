@@ -938,5 +938,10 @@ namespace GitUI.Editor
                     GoToLine(formGoToLine.GetLineNumber() - 1);
             }
         }
+
+        private void blameThisLineToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
