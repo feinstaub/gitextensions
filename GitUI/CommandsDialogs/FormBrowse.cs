@@ -172,6 +172,10 @@ namespace GitUI.CommandsDialogs
             DiffText.ExtraDiffArgumentsChanged += DiffTextExtraDiffArgumentsChanged;
             _filterRevisionsHelper.SetFilter(filter);
             DiffText.SetFileLoader(getNextPatchFile);
+            DiffText.BlameThisLineEvent += DiffText_BlameThisLine;
+
+            FileText.BlameThisLineEvent += FileText_BlameThisLine;
+            
 
             GitTree.ImageList = new ImageList();
             GitTree.ImageList.Images.Add(Properties.Resources.New); //File
@@ -200,6 +204,18 @@ namespace GitUI.CommandsDialogs
             _formBrowseMenuCommands = new FormBrowseMenuCommands(this, aCommands, Module, RevisionGrid);
             _formBrowseMenus = new FormBrowseMenus(menuStrip1);
             RevisionGrid.MenuCommands.PropertyChanged += (sender, e) => _formBrowseMenus.OnMenuCommandsPropertyChanged();
+        }
+
+        void DiffText_BlameThisLine(object sender, EventArgs e)
+        {
+            int line = (int)sender; // TODO: convert editor line to source line
+            UICommands.StartFileHistoryDialog(this, DiffFiles.SelectedItem.Name, null, false, true, line);
+        }
+
+        void FileText_BlameThisLine(object sender, EventArgs e)
+        {
+            int line = (int)sender;
+            StartBlameDialogFromFileTree(line);
         }
 
         void UICommands_PostRepositoryChanged(object sender, GitUIBaseEventArgs e)
@@ -1021,6 +1037,11 @@ namespace GitUI.CommandsDialogs
 
         private void blameMenuItem_Click(object sender, EventArgs e)
         {
+            StartBlameDialogFromFileTree();
+        }
+
+        private void StartBlameDialogFromFileTree(int gotoLine = -1)
+        {
             var item = GitTree.SelectedNode.Tag as GitItem;
 
             if (item == null)
@@ -1029,9 +1050,9 @@ namespace GitUI.CommandsDialogs
             IList<GitRevision> revisions = RevisionGrid.GetSelectedRevisions();
 
             if (revisions.Count == 0 || GitRevision.IsArtificial(revisions[0].Guid))
-                UICommands.StartFileHistoryDialog(this, item.FileName, null, false, true);
+                UICommands.StartFileHistoryDialog(this, item.FileName, null, false, true, gotoLine);
             else
-                UICommands.StartFileHistoryDialog(this, item.FileName, revisions[0], true, true);
+                UICommands.StartFileHistoryDialog(this, item.FileName, revisions[0], true, true, gotoLine);
         }
 
         public void FindFileOnClick(object sender, EventArgs e)

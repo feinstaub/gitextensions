@@ -1387,14 +1387,20 @@ namespace GitUI
             return StartBrowseDialog(null, filter);
         }
 
-        public void StartFileHistoryDialog(IWin32Window owner, string fileName, GitRevision revision, bool filterByRevision, bool showBlame)
+        public void StartFileHistoryDialog(IWin32Window owner, string fileName, GitRevision revision, bool filterByRevision, bool showBlame, int gotoLineNumber = -1)
         {
             Func<Form> provideForm = () =>
                 {
                     var form = new FormFileHistory(this, fileName, revision, filterByRevision);
 
                     if (showBlame)
+                    {
                         form.SelectBlameTab();
+                    }
+                    if (gotoLineNumber != -1)
+                    {
+                        form.InitBlameWithLine = gotoLineNumber;
+                    }
 
                     return form;
                 };

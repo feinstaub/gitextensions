@@ -189,7 +189,7 @@ namespace GitUI.Blame
         
         private AsyncLoader blameLoader = new AsyncLoader();
 
-        public void LoadBlame(GitRevision revision, List<string> children, string fileName, RevisionGrid revGrid, Control controlToMask, Encoding encoding)
+        public void LoadBlame(GitRevision revision, List<string> children, string fileName, RevisionGrid revGrid, Control controlToMask, Encoding encoding, int gotoLineNumber = -1)
         {
             //refresh only when something changed
             string guid = revision.Guid;
@@ -207,6 +207,11 @@ namespace GitUI.Blame
             _revGrid = revGrid;
             _fileName = fileName;
             _encoding = encoding;
+
+            if (gotoLineNumber != -1)
+            {
+                line = gotoLineNumber;
+            }
 
             blameLoader.Load(() => _blame = Module.Blame(fileName, guid, encoding),
                 () => ProcessBlame(revision, children, controlToMask, line, scrollpos));

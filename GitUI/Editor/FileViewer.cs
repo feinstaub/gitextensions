@@ -941,7 +941,14 @@ namespace GitUI.Editor
 
         private void blameThisLineToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            int line = _internalFileViewer.LineAtCaret;
 
+            if (BlameThisLineEvent != null)
+            {
+                BlameThisLineEvent(line, null);
+            }
         }
+
+        public event EventHandler<EventArgs> BlameThisLineEvent;
     }
 }
