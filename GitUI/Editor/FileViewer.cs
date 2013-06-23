@@ -943,6 +943,11 @@ namespace GitUI.Editor
         {
             int line = _internalFileViewer.LineAtCaret;
 
+            if (!ShowEntireFile)
+            {
+                // TODO: how to get the actual source file line number (instead of line number in patch)?
+            }
+
             if (BlameThisLineEvent != null)
             {
                 BlameThisLineEvent(line, null);

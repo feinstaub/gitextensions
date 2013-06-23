@@ -208,7 +208,7 @@ namespace GitUI.CommandsDialogs
 
         void DiffText_BlameThisLine(object sender, EventArgs e)
         {
-            int line = (int)sender; // TODO: convert editor line to source line
+            int line = (int)sender;
             UICommands.StartFileHistoryDialog(this, DiffFiles.SelectedItem.Name, null, false, true, line);
         }
 
